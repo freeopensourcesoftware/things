@@ -46,6 +46,8 @@ usr_42d46072-71c6-4fb9-8391-d1bbd0e543a3
 usr_e816c0d5-c278-4759-abc3-b613fb15adc8
 usr_40a420cf-43bb-4438-adcc-a61d8c1faeab
 usr_44cee08d-c097-49d0-9dc0-cfa86e0e5d6c
+usr_142cc9aa-9664-424e-bcb8-bca5f6e2e6f0
+usr_0cfc7bbf-5fe0-4baa-95e0-dae6a6d30403
 }
 DEV:{
 usr_cf6f8c07-8ac1-48e3-ac9d-52fad295347b
